@@ -1,0 +1,6 @@
+---
+title: "Learning to reference figures, tables and sections"
+author: "Rayyan Aamir"
+format: html
+editor: visual
+---
